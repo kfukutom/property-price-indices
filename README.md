@@ -2,11 +2,11 @@
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/higherblue.git
+    git clone https://github.com/kfukutom/property-price-indices.git
     ```
 2. **Navigate into the project directory**:
     ```bash
-    cd higherblue
+    cd property-price-indices
     ```
 3. **Install dependencies**:
     ```bash
